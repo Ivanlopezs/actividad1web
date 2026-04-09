@@ -15,7 +15,7 @@ export default function App() {
     <main className="shell">
       <section className="hero">
         <p className="eyebrow">Laboratorio 1 · Despliegue con GitHub</p>
-        <h1>Release Board V1</h1>
+        <h1>Nueva pagina web de Ivan Lopez</h1>
         <p className="hero-copy">
           Aplicación mínima para practicar pipeline, despliegue y promoción entre entornos.
         </p>
